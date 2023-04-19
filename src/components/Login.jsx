@@ -10,6 +10,7 @@ export default function Login(){
         <Container>
          <Row>
           <Col className="mx-4 my-4 p-3 rounded-4 login-container">
+            <h1>Login</h1>
            <LoginForm />
           </Col>
          </Row>
